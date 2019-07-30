@@ -27,7 +27,6 @@ export default class Header extends Component {
                <ul className="social">
 \\
                               <li key="bookstore">
-                                <a href={item.url} target="_blank"><i className={item.className}></i></a>
                               </li>
                   }
                </ul>
