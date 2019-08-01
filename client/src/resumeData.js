@@ -1,79 +1,68 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"https://kelseygibbs.github.io/",
+    "name": "Kelsey Gibbs",
+    "role": "Junior Software Developer with a passion for innovation and problem solving.",
+    "linkedinId":"",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/kelsey-lee-gibbs-53187813/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/kelseygibbs",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Junior Software Developer with a passion for innovation and problem solving. Stepping away from the career of an experienced pastry chef to bring creativity, an acute attention to detail, strong communication skills, and self organization to a career in technology. As someone who has always enjoyed math, I  appreciate the power of JavaScript both on the backend using nodeJS and on the frontend using React. My desire to deliver is driven by grit, which combined with my technical skills, flexibility, problem solving, and teamwork make me a valuable asset in a team.",
+    "address":"Nashville, TN",
+    "website":"https://kelseygibbs.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Vanderbilt University Full-Stack Web Development Bootcamp ",
+        "specialization":"Full-stack intensive program focused on gaining technical programming skills in Javascript, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS.",
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2019",
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Trilogy Education at Vanderbilt University",
+        "specialization":"Full-Stack Web Developer Teaching Assistant",
+        "MonthOfLeaving":"July 2019 - ",
+        "YearOfLeaving":"Current",
+        "Achievements":"Teaching students full-stack web development using HTML, CSS, JavaScript, jQuery, Bootstrap, Express, React, Node, MySQL, MongoDB, and more through an intensive 24-week curriculum. Code reviewing students web application assignments and leading presentations on JavaScript concepts."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Ryman Hospitality Properties",
+        "specialization":"Pastry Chef",
+        "MonthOfLeaving":"Mar 2018 - ",
+        "YearOfLeaving":"Jan 2018",
+        "Achievements":"Crafted and tested menus for two new restaurant concepts and a busy downtown banquet space to ensure the best product for the brand. Recruited, interviewed, trained, and scheduled pastry cooks to accommodate the volume of these new Broadway hotspots."
       }
     ],
-    "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"MongoDB"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Express"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"React"
+      },
+      {
+        "skillname":"Node.js"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Mongo News Scraper",
+        "description":"A web app that lets users view and leave comments on the latest news. When a user visits the site, the app scrapes news stories and displays them for users to comment on. Used: NodeJS, Express, Express-Handlebars, Mongoose, Cheerio, Axios.",
+        "imgurl":""
       },
       {
         "name":"project2",
@@ -89,16 +78,6 @@ let resumeData = {
         "name":"project4",
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
-      }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
       }
     ]
   }
