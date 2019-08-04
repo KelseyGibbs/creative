@@ -63,22 +63,23 @@ let resumeData = {
         "name":"Mongo News Scraper",
         "description":"A web app that lets users view and leave comments on the latest news. When a user visits the site, the app scrapes news stories and displays them for users to comment on. Used: NodeJS, Express, Express-Handlebars, Mongoose, Cheerio, Axios.",
         "imgurl":""
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
       }
+      // ,
+      // {
+      //   "name":"project2",
+      //   "description":"mobileapp",
+      //   "imgurl":"images/portfolio/project.jpg"
+      // },
+      // {
+      //   "name":"project3",
+      //   "description":"mobileapp",  
+      //   "imgurl":"images/portfolio/project2.png"
+      // },
+      // {
+      //   "name":"project4",
+      //   "description":"mobileapp",
+      //   "imgurl":"images/portfolio/phone.jpg"
+      // }
     ]
   }
   
