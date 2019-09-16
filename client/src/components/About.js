@@ -34,7 +34,12 @@ export default class About extends Component {
                     </span>
                     <br></br>
                     <span>{resumeData.email}</span>
+                    <br></br>
+                    <span>{resumeData.phone}</span>
        					   </p>
+                  </div>
+                  <div className="columns">
+                  <img src="../images/professionalimagethumb.jpg"></img>
                   </div>
                </div>
             </div>

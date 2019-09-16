@@ -25,6 +25,11 @@
 --------------------------------------------------------------------- */
 @media only screen and (max-width: 900px) {
 
+   div.three.columns.main-col.pretty {
+      font-size: 400%;
+      height: 1.1in;
+      align-content: center;
+   }
     /* header styles
    ------------------------------------------------------------------ */
    header .banner { padding-bottom: 12px; }
@@ -369,6 +374,12 @@
    /* social links */
    footer .social-links { font-size: 20px; }
    footer .social-links li { margin-left: 14px; }   
+
+   div.three.columns.main-col.pretty {
+      font-size: 280%;
+      height: 1.1in;
+      align-content: center;
+   }
 
 }
 

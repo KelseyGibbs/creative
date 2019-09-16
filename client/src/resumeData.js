@@ -17,6 +17,7 @@ let resumeData = {
       ],
     "aboutme":"Junior Software Developer with a passion for innovation and problem solving. Stepping away from the career of an experienced pastry chef to bring creativity, an acute attention to detail, strong communication skills, and self organization to a career in technology. As someone who has always enjoyed math, I  appreciate the power of JavaScript both on the backend using nodeJS and on the frontend using React. My desire to deliver is driven by grit, which combined with my technical skills, flexibility, problem solving, and teamwork make me a valuable asset in a team.",
     "address":"Nashville, TN",
+    "phone":"(615) 925-1981",
     "email":"gibbs.kelseylee@gmail.com",
     "education":[
       {
@@ -69,22 +70,9 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Mongo News Scraper",
-        "description":"A web app that lets users view and leave comments on the latest news. When a user visits the site, the app scrapes news stories and displays them for users to comment on. Used: NodeJS, Express, Express-Handlebars, Mongoose, Cheerio, Axios.",
+        "description":"A web application that scrapes a news website, saves the articles into a database, and allows users to leave comments on the articles.",
         "imgurl":"https://live.staticflickr.com/65535/48521255746_ca462187b5.jpg",
-        "link":""
-      },
-      {
-        "name":"Voila",
-        "description":"An interactive website to find live music events, happening tonight in the city of your choice. Used: Javascript, JQuery, AJAX, TicketMaster API, last.fm API",
-        "imgurl":"https://live.staticflickr.com/65535/48521595272_f03bd01761.jpgg",
-        "link":""
-      }
-      ,
-      {
-        "name":"WholeBaker",
-        "description":"A web application for wholesale bakery sales management. Role-based authentication leading clients to a store, and leading admin to a product management portal. Used: React.js, Redux, MongoDB, Mongoose, Node.Js, PassportJWT, Materialize-CSS",  
-        "imgurl":"images/portfolio/project2.png",
-        "link":""
+        "link":"https://protected-escarpment-65294.herokuapp.com/"
       }
     ]
   }

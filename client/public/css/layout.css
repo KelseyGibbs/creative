@@ -22,9 +22,23 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { background: #0f0f0f;
+   position: relative;
+   margin-top: 80px; }
 
-/* ------------------------------------------------------------------ */
+/* .container1 {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  background-color: #FFFFFF;
+  z-index: 1;
+}
+
+.container2 {
+  position: relative;
+  margin-top: 80px;
+}
+------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
 
@@ -139,6 +153,11 @@ header .scrolldown a:hover { color: #11ABB0; }
    position: fixed;
    left: 0;
    top: 0;
+   position: fixed;
+   top: 0;
+   width: 100vw;
+   z-index: 1;
+   background-color: #0f0f0f;
 }
 .opaque { background-color: #333; }
 
@@ -627,7 +646,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/wpid-690329349-hokuryu-sunflower-field-sunray-yellow.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -953,6 +972,7 @@ footer .social-links {
    margin: 18px 0 30px 0;
    padding: 0;
    font-size: 30px;
+   width: 100%;
 }
 footer .social-links li {
     display: inline-block;
@@ -992,3 +1012,18 @@ footer .social-links li:first-child { margin-left: 0; margin: 10px; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+#faceButton {
+   background-image: url("../images/professionalImage.jpg");
+   background-size: .65in;
+   background-position: center;
+}
+
+div.tweleve.columns {
+   width: 100%;
+}
+
+div.three.columns.main-col.pretty {
+   font-size: 600%;
+   height: 1.1in;
+   align-content: center;
+}

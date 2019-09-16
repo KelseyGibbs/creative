@@ -60,19 +60,78 @@ export default  class Resume extends Component {
          </div>
 
 
-         <div className="row skill">
+         <div className="row skills">
 
             <div className="three columns header-col">
                <h1><span>Skills</span></h1>
             </div>
 
             <div className="nine columns main-col">
+            </div>
+        </div>  
+        <div className="row skills">
 
-               <p>
+            <div className="three columns header-col">
+          
+            </div>
+
+            <div className="three columns main-col pretty">
+            <i class="devicon-react-original-wordmark colored"></i>
+            </div>
+
+            <div className="three columns main-col pretty">
+            <i class="devicon-git-plain-wordmark colored"></i>
+            </div>
+
+            <div className="three columns main-col pretty">
+            <i class="devicon-mongodb-plain-wordmark colored"></i>
+            </div>
+
+        </div>
+        <div className="row skills">
+
+<div className="three columns header-col">
+
+</div>
+
+<div className="three columns main-col pretty">
+<i class="devicon-nodejs-plain-wordmark colored"></i>
+</div>
+
+<div className="three columns main-col pretty">
+<i class="devicon-jquery-plain-wordmark colored"></i>
+</div>
+
+<div className="three columns main-col pretty">
+<i class="devicon-express-original-wordmark colored"></i>
+</div>
+
+</div>
+<div className="row skills">
+
+<div className="three columns header-col">
+
+</div>
+
+<div className="three columns main-col pretty">
+<i class="devicon-mysql-plain-wordmark colored"></i>
+</div>
+
+<div className="three columns main-col pretty">
+<i class="devicon-sequelize-plain-wordmark colored"></i>
+</div>
+
+<div className="three columns main-col pretty">
+<i class="devicon-sass-original colored"></i>
+</div>
+
+</div>
+            
+               {/* <p>
                {resumeData.skillsDescription}
-               </p>
+               </p> */}
 
-   				<div className="bars">
+   				{/* <div className="bars">
 
    				   <ul className="skills">
                 {
@@ -88,11 +147,9 @@ export default  class Resume extends Component {
 
    					</ul>
 
-   				</div>
+   				</div> */}
 
-   			</div>
-
-         </div>
+   			{/* </div> */}
 
       </section>
     );
