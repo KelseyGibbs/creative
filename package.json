@@ -15,11 +15,19 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^4.1.0",
+    "concurrently": "^4.1.2",
     "nodemon": "^1.18.7"
   },
   "dependencies": {
     "express": "^4.16.3",
     "if-env": "^1.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelseyGibbs/creative.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KelseyGibbs/creative/issues"
+  },
+  "homepage": "https://github.com/KelseyGibbs/creative#readme"
 }

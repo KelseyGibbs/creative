@@ -9,6 +9,7 @@ app.use(express.json());
 
 
 // If in production
+
 if (process.env.NODE_ENV === 'production') {
     // Set static folder
     app.use(express.static('client/build'));
