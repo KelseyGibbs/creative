@@ -18,7 +18,7 @@ let resumeData = {
     "aboutme":"Junior Software Developer with a passion for innovation and problem solving. Stepping away from the career of an experienced pastry chef to bring creativity, an acute attention to detail, strong communication skills, and self organization to a career in technology. As someone who has always enjoyed math, I  appreciate the power of JavaScript both on the backend using nodeJS and on the frontend using React. My desire to deliver is driven by grit, which combined with my technical skills, flexibility, problem solving, and teamwork make me a valuable asset in a team.",
     "address":"Nashville, TN",
     "phone":"(615) 925-1981",
-    "email":"gibbs.kelseylee@gmail.com",
+    "email":"kelseylee.gibbs@gmail.com",
     "education":[
       {
         "UniversityName":"Vanderbilt University Full-Stack Web Development Bootcamp ",
