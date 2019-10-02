@@ -648,7 +648,6 @@ call-to-action .button {
 #testimonials {
    background: #1F1F1F url(../images/wpid-690329349-hokuryu-sunflower-field-sunray-yellow.jpg) no-repeat center center;
    background-size: cover !important;
-	-webkit-background-size: cover !important;
    background-attachment: fixed;
 
    position: relative;
