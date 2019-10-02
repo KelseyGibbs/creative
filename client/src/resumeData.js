@@ -6,7 +6,7 @@ let resumeData = {
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/kelsey-lee-gibbs-53187813/",
+          "url":"https://www.linkedin.com/in/kelsey-gibbs-53187813/",
           "className":"fa fa-linkedin"
         },
         {
@@ -36,7 +36,7 @@ let resumeData = {
         "Achievements":"Assisting the instuctor and helping teach students full-stack web development using HTML, CSS, JavaScript, jQuery, Bootstrap, Express, React, Node, MySQL, MongoDB, and more through an intensive 24-week curriculum. Code reviewing students web application assignments and leading presentations on JavaScript concepts."
       },
       {
-        "CompanyName":"Ryman Hospitality Properties",
+        "CompanyName":"Ole Red - Ryman Hospitality",
         "specialization":"Pastry Chef",
         "MonthOfLeaving":"Jan 2017 - ",
         "YearOfLeaving":"Mar 2018",
@@ -69,10 +69,22 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"Adventure Finder",
+        "description":"MERN crud application with user authentication and the ability to save hikes from the Hiking Project API.",
+        "imgurl":"https://live.staticflickr.com/65535/48832129232_21250a5b59.jpg",
+        "link":"https://github.com/KelseyGibbs/AdventureFinder"
+      },
+      {
         "name":"Mongo News Scraper",
-        "description":"A web application that scrapes a news website, saves the articles into a database, and allows users to leave comments on the articles.",
+        "description":"Utilizes cheerio and mongoDB to scrape a news applicatoin, and allows users to leave comments on the articles.",
         "imgurl":"https://live.staticflickr.com/65535/48521255746_ca462187b5.jpg",
-        "link":"https://protected-escarpment-65294.herokuapp.com/"
+        "link":"https://github.com/KelseyGibbs/NewsScraper"
+      },
+      {
+        "name":"Burger Project",
+        "description":"Node, mySQL and handlebars applicatoin to keep track of how many burgers a user has eaten.",
+        "imgurl":"https://live.staticflickr.com/65535/48831640553_1b70756d97.jpg",
+        "link":"https://github.com/KelseyGibbs/Burger"
       }
     ]
   }
