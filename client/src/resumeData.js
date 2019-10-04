@@ -38,15 +38,15 @@ let resumeData = {
       {
         "CompanyName":"Ole Red - Ryman Hospitality",
         "specialization":"Pastry Chef",
-        "MonthOfLeaving":"Jan 2017 - ",
-        "YearOfLeaving":"Mar 2018",
+        "MonthOfLeaving":"March 2018 - ",
+        "YearOfLeaving":"January 2019",
         "Achievements":"Crafted and tested menus for two new restaurant concepts and a busy downtown banquet space to ensure the best product for the brand. Recruited, interviewed, trained, and scheduled pastry cooks to accommodate the volume of these new Broadway hotspots."
       },
       {
         "CompanyName":"City Winery - Nashville",
         "specialization":"Pastry Chef",
-        "MonthOfLeaving":"Mar 2018 - ",
-        "YearOfLeaving":"Jan 2018",
+        "MonthOfLeaving":"Jan 2017 - ",
+        "YearOfLeaving":"March 2018",
         "Achievements":"I was hired as an assistant to the pastry chef to maintain and expand the bread program. I created and costed recipes and began to assist with pastry production as needed. A short time later, I was promoted to Pastry Chef and charged with menu development, food purchasing, as well as employee training and development."
       }
     ],
