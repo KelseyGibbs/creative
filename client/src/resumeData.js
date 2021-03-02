@@ -28,11 +28,18 @@ let resumeData = {
       }
     ],
     "work":[
+    {
+        "CompanyName":"FreightWise LLC",
+        "specialization":"Software Developer",
+        "MonthOfLeaving":"October 2019 - ",
+        "YearOfLeaving":"March 2021",
+        "Achievements":"Created, maintained and tested new features on a Node, PostgeSQL and hybrid Vue / AngularJS stack. Integrated 3rd party SOAP / REST APIs, AWS Lambda and S3 services. Followed the Agile workflow, having my code reviewed and reviewing that of others.  "
+      },
       {
         "CompanyName":"Trilogy Education at Vanderbilt University",
         "specialization":"Teaching Assistant",
         "MonthOfLeaving":"July 2019 - ",
-        "YearOfLeaving":"Present",
+        "YearOfLeaving":"January 2020",
         "Achievements":"Assisting the instuctor and helping teach students full-stack web development using HTML, CSS, JavaScript, jQuery, Bootstrap, Express, React, Node, MySQL, MongoDB, and more through an intensive 24-week curriculum. Code reviewing students web application assignments and leading presentations on JavaScript concepts."
       },
       {
@@ -88,5 +95,5 @@ let resumeData = {
       }
     ]
   }
-  
+
   export default resumeData
