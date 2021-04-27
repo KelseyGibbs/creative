@@ -23,6 +23,8 @@ let resumeData = {
       {
         "UniversityName":"Vanderbilt University Full-Stack Web Development Bootcamp ",
         "specialization":"Full-stack intensive program focused on gaining technical programming skills in Javascript, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS.",
+        "MonthOfStarting":"January",
+        "YearOfStarting":"2019",
         "MonthOfPassing":"July",
         "YearOfPassing":"2019",
       }
