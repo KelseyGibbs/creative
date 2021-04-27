@@ -59,23 +59,6 @@ let resumeData = {
         "Achievements":"I was hired as an assistant to the pastry chef to maintain and expand the bread program. I created and costed recipes and began to assist with pastry production as needed. A short time later, I was promoted to Pastry Chef and charged with menu development, food purchasing, as well as employee training and development."
       }
     ],
-    "skills":[
-      {
-        "skillname":"Node"
-      },
-      {
-        "skillname":"Express"
-      },
-      {
-        "skillname":"React"
-      },
-      {
-        "skillname":"MongoDB"
-      },
-      {
-        "skillname":"mySQL"
-      }
-    ],
     "portfolio":[
       {
         "name":"Adventure Finder",

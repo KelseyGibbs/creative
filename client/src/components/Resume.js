@@ -76,15 +76,15 @@ export default  class Resume extends Component {
             </div>
 
             <div className="three columns main-col pretty">
-            <i class="devicon-react-original-wordmark colored"></i>
+            <i class="devicon-nodejs-plain-wordmark colored"></i>
             </div>
 
             <div className="three columns main-col pretty">
-            <i class="devicon-git-plain-wordmark colored"></i>
+            <i class="devicon-postgresql-plain-wordmark colored"></i>
             </div>
 
             <div className="three columns main-col pretty">
-            <i class="devicon-mongodb-plain-wordmark colored"></i>
+            <i class="devicon-vuejs-plain-wordmark colored"></i>
             </div>
 
         </div>
@@ -95,15 +95,15 @@ export default  class Resume extends Component {
 </div>
 
 <div className="three columns main-col pretty">
-<i class="devicon-nodejs-plain-wordmark colored"></i>
+<i class="devicon-mongodb-plain-wordmark colored"></i>
 </div>
 
 <div className="three columns main-col pretty">
-<i class="devicon-jquery-plain-wordmark colored"></i>
+<i class="devicon-angularjs-plain-wordmark colored"></i>
 </div>
 
 <div className="three columns main-col pretty">
-<i class="devicon-express-original-wordmark colored"></i>
+<i class="devicon-react-original-wordmark colored"></i>
 </div>
 
 </div>
@@ -114,15 +114,35 @@ export default  class Resume extends Component {
 </div>
 
 <div className="three columns main-col pretty">
-<i class="devicon-mysql-plain-wordmark colored"></i>
-</div>
-
-<div className="three columns main-col pretty">
 <i class="devicon-sequelize-plain-wordmark colored"></i>
 </div>
 
 <div className="three columns main-col pretty">
+<i class="devicon-d3js-plain colored"></i>
+</div>
+
+<div className="three columns main-col pretty">
 <i class="devicon-sass-original colored"></i>
+</div>
+
+</div>
+
+          <div className="row skills">
+
+<div className="three columns header-col">
+
+</div>
+
+<div className="three columns main-col pretty">
+<i class="devicon-docker-plain-wordmark colored"></i>
+</div>
+
+<div className="three columns main-col pretty">
+<i class="devicon-github-plain-wordmark colored"></i>
+</div>
+
+<div className="three columns main-col pretty">
+<i class="devicon-amazonwebservices-plain-wordmark colored"></i>
 </div>
 
 </div>
