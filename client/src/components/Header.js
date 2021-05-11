@@ -20,7 +20,7 @@ export default class Header extends Component {
          <div className="row banner">
             <div className="banner-text">
             <strong><h1 className="responsive-headline">Kelsey Gibbs</h1></strong>
-            <strong><h3 style={{color:'#fff', fontFamily:'sans-serif '}}>Junior Software Developer with a passion for innovation and problem solving. 
+            <strong><h3 style={{color:'#fff', fontFamily:'sans-serif '}}>Software Developer with a passion for innovation and problem solving. 
                </h3></strong>
                <hr/>
 
